@@ -1,2 +1,4 @@
 Git is a distributed version control system that tracks changes in files and lets multiple developers collaborate on the same project without overwriting each other's work.
 GitHub is a cloud platform that hosts Git repositories and adds pull requests and branches for teamwork.
+
+Summary: Git tracks history locally, GitHub shares it online, and pull requests let teams review changes before merging.
